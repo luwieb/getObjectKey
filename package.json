@@ -1,0 +1,24 @@
+{
+  "name": "lwamberhane-getobjectkey",
+  "version": "1.0.0",
+  "description": "Finding object key using the object and the value ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luwieb/getObjectKey.git"
+  },
+  "keywords": [
+    "Object",
+    "key",
+    "npm"
+  ],
+  "author": "Lwam Berhane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luwieb/getObjectKey/issues"
+  },
+  "homepage": "https://github.com/luwieb/getObjectKey#readme"
+}
