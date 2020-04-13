@@ -1,6 +1,6 @@
 {
   "name": "lwamberhane-getobjectkey",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Finding object key using the object and the value ",
   "main": "index.js",
   "scripts": {
