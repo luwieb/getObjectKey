@@ -1,5 +1,5 @@
-function getKey(Object, value) {
-  return Object.keys(Object)[Object.values(Object).indexOf(value)];
+function getKey(Obj, value) {
+  return Object.keys(Obj)[Object.values(Obj).indexOf(value)];
 }
 
 module.exports = getKey;
